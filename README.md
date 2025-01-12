@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShresthKhanna-python
+- 👋 Hi, I’m @ShresthKhanna
 - 👀 I’m interested in Python development, machine learning, and software automation
 - 🌱 I’m currently learning advanced Python concepts
 -  I’m looking to collaborate on open-source projects or work on Python-related development
